@@ -27,5 +27,5 @@ The synthetic dataset RS-Homo can be generated in https://drive.google.com/drive
 ```
 ### Contact
 
-Email: [1092443660ywl@gmail.com](1092443660ywl@gmail.com)
+Email: Weilong Yan [1092443660ywl@gmail.com](1092443660ywl@gmail.com)
 
